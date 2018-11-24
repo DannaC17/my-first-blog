@@ -25,7 +25,7 @@ SECRET_KEY = '@yprx-&y%#27g9+0xbtw_5!u9jg8xq!)9&6###+25n&oux(%f%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'http://dannac17.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'DannaC17.pythonanywhere.com']
 
 
 # Application definition
